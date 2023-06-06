@@ -1,0 +1,12 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: rgb(53, 26, 77);
+}
+
+.container-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem
+}
