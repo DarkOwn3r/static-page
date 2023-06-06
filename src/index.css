@@ -24,7 +24,7 @@ body {
 }
 
 .title h1 {
-  font-size: 3rem;
+  font-size: 2rem;
 }
 
 .title img {
@@ -32,7 +32,6 @@ body {
 }
 
 .coffee {
-  margin: 2rem;
   display: flex;
   justify-content: center;
   border-radius: 5px;
