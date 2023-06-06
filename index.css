@@ -2,9 +2,11 @@ body {
   padding: 0;
   margin: 0;
   background-color: rgb(53, 26, 77);
+  overflow: hidden;
 }
 
 .container-page {
+  width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -13,6 +15,16 @@ body {
 }
 
 .text {
+  width: 100%;
   color:rgb(255, 255, 255);
-  text-shadow: 1px 1px 1px #000;
+  text-shadow: 2px 1px 1px #000;
+}
+
+.text p {
+  font-size: 2rem;
+}
+
+.coffee {
+  border-radius: 5px;
+  box-shadow: 2px 2px 2px #000;
 }
