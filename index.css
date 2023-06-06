@@ -22,6 +22,10 @@ body {
   text-shadow: 2px 1px 1px #000;
 }
 
+.text h1 {
+  font-size: 3rem;
+}
+
 .text p {
   font-size: 2rem;
 }
